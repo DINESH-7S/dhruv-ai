@@ -151,8 +151,8 @@ More detail: [`SIH_PLAN.md`](SIH_PLAN.md) (design and decisions), [`SPEC.md`](SP
 You need **Node.js 20+** and a free **Supabase** project.
 
 ```powershell
-git clone https://github.com/DINESH-7S/Polar-Knowledge-Repository-FOR-INDIA-SIH-2026.git
-cd Polar-Knowledge-Repository-FOR-INDIA-SIH-2026
+git clone https://github.com/DINESH-7S/dhruv-ai.git
+cd dhruv-ai
 npm install
 Copy-Item .env.example .env.local   # then fill in your own keys
 npm run dev                         # http://localhost:3000
