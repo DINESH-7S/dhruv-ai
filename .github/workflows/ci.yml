@@ -22,8 +22,6 @@ jobs:
 
   build:
     runs-on: ubuntu-latest
-    # Remove continue-on-error once this job has passed on main.
-    continue-on-error: true
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
