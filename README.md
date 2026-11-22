@@ -3,6 +3,7 @@
 **Smart India Hackathon 2026 · Problem statement SIH26063**
 *Integrated Polar Science Outreach, Knowledge Repository and Media Dissemination Portal* (Ministry of Earth Sciences / NCPOR · Smart Education)
 
+[![CI](https://github.com/DINESH-7S/dhruv-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/DINESH-7S/dhruv-ai/actions/workflows/ci.yml)
 ![Next.js](https://img.shields.io/badge/Next.js-15-000?logo=nextdotjs) ![Supabase](https://img.shields.io/badge/Supabase-Postgres%20%2B%20pgvector-3ECF8E?logo=supabase&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white) ![Languages](https://img.shields.io/badge/UI-English%20%7C%20हिन्दी-5bbfe6) ![Licence](https://img.shields.io/badge/code-MIT-lightgrey)
 
 > DHRUV is a student prototype. It is **not** an official website of NCPOR, the Ministry of Earth Sciences or the Government of India. Every document, photo, video and dataset is credited to its owner on its own page.
